@@ -1,70 +1,49 @@
 # Python Foundations
 
-A curated portfolio of Python projects documenting my progress in programming, problem-solving and software development.
+A curated collection of Python projects documenting my progress in programming, problem-solving and software development.
 
 ## About This Repository
 
-This repository contains selected Python projects developed as part of my programming journey.
+This repository contains selected Python exercises and projects developed while learning Python.
 
-Rather than collecting every exercise, I focus on selecting, improving and documenting projects that demonstrate my understanding of programming concepts and my ability to apply them.
-
-## Projects
-
-### 1. Caesar Cipher
-A text encryption and decryption program based on the Caesar cipher.
-
-**Concepts practised:**
-- Functions and return statements
-- Loops and conditional statements
-- String manipulation
-- Input validation
-
-### 2. Python Calculator
-A command-line calculator that performs basic mathematical operations.
-
-**Concepts practised:**
-- Functions and dictionaries
-- Exception handling
-- Input validation
-- Program flow and loops
-
-### 3. Coffee Machine Simulator
-A command-line simulation of a coffee machine that manages ingredients, processes payments and tracks profits.
-
-**Concepts practised:**
-- Nested dictionaries
-- Functions and loops
-- Resource management
-- Exception handling and input validation
-
-## Skills Developed
-
-Through these projects, I am developing skills in:
-
-- Python programming fundamentals
-- Problem-solving and logical thinking
-- Writing structured and reusable code
-- Debugging and testing
-- Handling user input and exceptions
-- Documenting software projects
+Rather than collecting every exercise, I focus on organising, improving and documenting selected work to demonstrate my understanding of programming concepts and their practical applications.
 
 ## Repository Structure
 
 ```text
-python-foundations/
-└── basics/
-    ├── day8_caesar_cipher.py
-    ├── README.md
-    ├── day10_calculator.py
-    ├── day10_calculator_README.md
-    ├── day15_coffee_machine.py
-    └── day15_coffee_machine_README.md
+Python-Foundations/
+├── basics/
+├── functions/
+├── selected_problems/
+└── README.md
 ```
+
+### `basics/`
+Fundamental Python exercises covering variables, data types, conditional statements, loops and basic programming concepts.
+
+### `functions/`
+Projects focused on functions, modular programming, reusable code and structured program design.
+
+### `selected_problems/`
+Selected programming challenges that involve problem-solving, algorithms and applying Python concepts.
+
+## Skills Developed
+
+Through these exercises and projects, I am developing skills in:
+
+- Python programming fundamentals
+- Logical and computational thinking
+- Problem-solving and algorithmic reasoning
+- Functions and modular programming
+- Debugging and testing
+- Writing structured and readable code
 
 ## Future Goals
 
-I plan to expand this portfolio with more challenging projects, improve my programming skills and explore applications of Python in STEM and engineering.
+I plan to develop more challenging projects and explore applications of programming in mathematics, physics, robotics and aerospace engineering.
 
----
+## Learning Approach
 
-*This repository represents my ongoing learning journey. Projects may be updated as I develop new skills and improve my understanding of Python.*
+Each selected project represents an opportunity to understand a programming concept, apply it, test the result and improve the implementation.
+
+This repository is an ongoing record of my development as a programmer.
