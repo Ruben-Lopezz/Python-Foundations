@@ -1,65 +1,34 @@
-# Caesar Cipher
+# Selected Problems
 
 ## Overview
 
-This project is a Python implementation of the Caesar Cipher, a simple encryption and decryption technique.
+This folder contains selected Python programming challenges that demonstrate problem-solving, algorithmic thinking and the application of programming concepts.
 
-It allows users to encode and decode messages by shifting letters through the alphabet.
+The projects focus on applying logical reasoning to solve problems, rather than simply practising individual Python features.
+
+## Selected Projects
+
+| Project | Description | Main Concepts |
+|---|---|---|
+| Caesar Cipher | Encodes and decodes messages using letter shifts. | Algorithms, modular arithmetic and string manipulation |
+| US States Game | An interactive game that tests knowledge of US states. | Lists, dictionaries and input handling |
+| NATO Phonetic Alphabet | Converts words into their corresponding NATO phonetic alphabet codes. | Dictionaries, lists and data transformation |
 
 ## Learning Objectives
 
-Through this project, I practised:
+Through these projects, I have practised:
 
-- Python functions and parameters.
-- Lists and string manipulation.
-- For loops and while loops.
-- Conditional statements.
-- The modulo operator.
-- User input and validation.
-- Exception handling with `try` and `except`.
+- Algorithmic thinking and problem-solving.
+- Applying mathematical concepts in programming.
+- Working with lists and dictionaries.
+- Processing and transforming data.
+- Designing interactive programs.
+- Testing and validating program behaviour.
 
-## How It Works
+## Development Approach
 
-The program shifts each letter in a message by a chosen number of positions.
+Each selected problem is documented to explain its purpose, implementation, testing and the programming concepts involved.
 
-For example, shifting `hello` by 5 positions produces `mjqqt`.
+## Future Development
 
-When decoding, the program reverses the shift.
-
-Characters that are not in the alphabet, such as spaces and punctuation, remain unchanged.
-
-## Project Structure
-
-- `day8_caesar_cipher.py`: Main program containing the encryption and decryption logic.
-
-## Testing
-
-The following cases were tested:
-
-| Operation | Input | Shift | Expected output |
-|---|---|---:|---|
-| Encode | hello | 5 | mjqqt |
-| Decode | mjqqt | 5 | hello |
-| Encode | xyz | 3 | abc |
-| Encode | hello world! | 5 | mjqqt btwqi! |
-
-Invalid directions and non-numeric shift inputs were also tested.
-
-## Limitations
-
-- The program currently works with lowercase English letters.
-- It is an educational exercise, not secure encryption.
-- It does not provide modern cryptographic protection.
-
-## What I Learned
-
-This project helped me understand how functions, loops, lists and mathematical operations can work together to solve a programming problem.
-
-I also practised input validation and separating the main encryption logic from the user interface.
-
-## Future Improvements
-
-- Support uppercase letters.
-- Improve the user interface.
-- Add automated tests.
-- Separate the encryption logic into a reusable module.
+I plan to explore more challenging problems involving algorithms, mathematics, physics and scientific computing.
