@@ -28,9 +28,21 @@ Through these exercises, I have practised:
 | `day02_tip_calculator.py` | Calculates a bill including a tip and splits the cost between people. | Numeric data types, arithmetic and formatting |
 | `day03_treasure_island.py` | A text-based adventure game where the user makes decisions to find treasure. | Conditional statements and input validation |
 | `day04_rock_paper_scissors.py` | A Rock, Paper, Scissors game against the computer. | Conditionals, lists and randomisation |
-| `day05_password_generator.py` | Generates a random password using letters, numbers and symbols. | Lists, loops, randomisation and string manipulation |
+| `day05_password_generator.py` | Creates a random password for practising lists, loops and string manipulation. | Lists, loops, randomisation and string manipulation |
 | `day06_functions.py` | Demonstrates how to define and call a Python function. | Functions and code organisation |
 | `day07_hangman.py` | An introductory version of the Hangman word-guessing game. | Loops, conditionals, lists and string manipulation |
+
+## Running the Exercises
+
+Each exercise is an independent Python script.
+
+To run an exercise, use Python 3:
+
+```bash
+python day01_band_name_generator.py
+```
+
+Replace the filename with the exercise you want to run.
 
 ## Development Approach
 
